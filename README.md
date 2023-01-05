@@ -1,4 +1,4 @@
-# nodejs-hw-01
+# CLI aplikacja
 
 Otrzymujemy i wyprowadzamy całą listę kontaktów w postaci tabeli: 
 [node index.js --action list](https://ibb.co/wg19sj7)
